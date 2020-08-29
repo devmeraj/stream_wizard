@@ -1,0 +1,3 @@
+[submodule "stream_wizard_submodule"]
+	path = stream_wizard_submodule
+	url = https://github.com/devmeraj/stream_wizard_submodule.git
